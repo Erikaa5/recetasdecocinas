@@ -15,3 +15,31 @@ footer {
    padding: 40px 0 ;
    height: 80vh;
  }
+ .modo-oscuro .navbar{
+    background-color: #1F1F1F;
+    color: #fff;
+ }
+ .modo-oscuro .navbar-brand {
+   color: #fff;
+ }
+ .modo-oscuro .nav-link  {
+    color: #fff;
+  }
+  .modo-oscuro main {
+    background-color: #121212;
+  }
+  .modo-oscuro .card {
+    background-color: #242424;
+    color: #fff;
+  }
+  .modo-oscuro footer {
+    background-color: #181818;
+    color: #fff;
+  }
+  #modoOscuroBtn {
+    background-color: #dc8ce7;
+    padding: 5px;
+    border: none;
+    border-radius: 7px;
+    color: #fff;
+  }
